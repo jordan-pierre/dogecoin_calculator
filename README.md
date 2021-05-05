@@ -14,13 +14,13 @@ Uses IPythonWidgets and Voila to make an interactive app and deployed on Blender
 ## Examples
 
 ### Opening the app
-![Start Example](demo/doge_calc_example.jpg?raw=true "Title")
+![Start Example](https://github.com/jordan-pierre/dogecoin_calculator/blob/main/demo/doge_calc_example.JPG)
 
 ### Sample calendar
-![Start Example](demo/doge_calendar_widget.jpg?raw=true "Title")
+![Calendar widget](https://github.com/jordan-pierre/dogecoin_calculator/blob/main/demo/doge_calendar_widget.JPG)
 
 ### Sample invalid date
-![Start Example](demo/doge_error_handling.jpg?raw=true "Title")
+![Invalid date](https://github.com/jordan-pierre/dogecoin_calculator/blob/main/demo/doge_error_handling.JPG)
 
 ### Sample output
-![Start Example](demo/doge_sample_out.jpg?raw=true "Title")
+![Sample output](https://github.com/jordan-pierre/dogecoin_calculator/blob/main/demo/doge_sample_out.JPG)
